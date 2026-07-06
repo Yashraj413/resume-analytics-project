@@ -1,0 +1,1805 @@
+[
+  {
+    "candidate_id": "CAND001",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@outlook.com",
+    "phone": "+91 9265452012",
+    "location": "Pune",
+    "years_experience": 4,
+    "current_role": "Data Analyst",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Stakeholder Management",
+      "Team Leadership",
+      "Snowflake",
+      "XGBoost",
+      "Pandas",
+      "Keras",
+      "Agile",
+      "Scala",
+      "Matplotlib",
+      "Airflow",
+      "Plotly",
+      "Python"
+    ],
+    "education": {
+      "degree": "M.Sc",
+      "field": "Data Science",
+      "university": "IIT Madras",
+      "graduation_year": 2020,
+      "gpa": 8.2
+    },
+    "work_experience": [
+      {
+        "company": "TCS",
+        "title": "Data Engineer",
+        "start_date": "Jul 2025",
+        "end_date": "Present",
+        "duration_years": 1,
+        "description": "Implemented analytics solution using Snowflake, enabling real-time decision making."
+      },
+      {
+        "company": "Cognizant",
+        "title": "Data Engineer",
+        "start_date": "Jul 2023",
+        "end_date": "Jul 2025",
+        "duration_years": 2,
+        "description": "Led analytics solution using Snowflake, reducing processing time by 40%."
+      },
+      {
+        "company": "Wipro",
+        "title": "Analytics Consultant",
+        "start_date": "Jul 2022",
+        "end_date": "Jul 2023",
+        "duration_years": 1,
+        "description": "Developed analytics solution using Team Leadership, supporting $2M revenue decisions."
+      }
+    ],
+    "projects": [
+      {
+        "name": "NLP-based Sentiment Analysis Pipeline using NLTK",
+        "skills_used": [
+          "Stakeholder Management",
+          "Plotly",
+          "Matplotlib",
+          "Keras"
+        ],
+        "impact": "Improved efficiency by 60%"
+      },
+      {
+        "name": "Real-time Fraud Detection System using XGBoost and AWS",
+        "skills_used": [
+          "Python",
+          "SQL",
+          "Snowflake",
+          "Matplotlib"
+        ],
+        "impact": "Improved efficiency by 69%"
+      },
+      {
+        "name": "Data Pipeline Optimization using Spark",
+        "skills_used": [
+          "Plotly",
+          "Stakeholder Management",
+          "PostgreSQL",
+          "SQL"
+        ],
+        "impact": "Improved efficiency by 23%"
+      }
+    ],
+    "certifications": [
+      "Python for Data Science (IBM)"
+    ],
+    "resume_text": "Priya Sharma | Data Analyst | 4 years experience\nSkills: SQL, PostgreSQL, Stakeholder Management, Team Leadership, Snowflake, XGBoost, Pandas, Keras, Agile, Scala, Matplotlib, Airflow\nEducation: M.Sc in Data Science from IIT Madras (2020)\nExperience: Data Engineer at TCS (1yr) | Data Engineer at Cognizant (2yr) | Analytics Consultant at Wipro (1yr)\nProjects: NLP-based Sentiment Analysis Pipeline using NLTK | Real-time Fraud Detection System using XGBoost and AWS | Data Pipeline Optimization using Spark",
+    "applied_date": "2026-06-12",
+    "source": "LinkedIn",
+    "status": "Interview Scheduled"
+  },
+  {
+    "candidate_id": "CAND002",
+    "name": "Rahul Mehta",
+    "email": "rahul.mehta@gmail.com",
+    "phone": "+91 9138054197",
+    "location": "Pune",
+    "years_experience": 7,
+    "current_role": "Senior Data Scientist",
+    "skills": [
+      "SQL",
+      "Java",
+      "Plotly",
+      "Stakeholder Management",
+      "AWS",
+      "GCP",
+      "Snowflake",
+      "Hugging Face",
+      "Pandas",
+      "Keras",
+      "SAS",
+      "Agile",
+      "Scikit-learn",
+      "Kafka",
+      "Tableau",
+      "Team Leadership",
+      "MongoDB",
+      "GPT"
+    ],
+    "education": {
+      "degree": "M.Sc",
+      "field": "Data Science",
+      "university": "Pune University",
+      "graduation_year": 2016,
+      "gpa": 8.1
+    },
+    "work_experience": [
+      {
+        "company": "Mu Sigma",
+        "title": "Analytics Consultant",
+        "start_date": "Jul 2023",
+        "end_date": "Present",
+        "duration_years": 3,
+        "description": "Automated analytics solution using AWS, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "Tech Mahindra",
+        "title": "Data Analyst",
+        "start_date": "Jul 2021",
+        "end_date": "Jul 2023",
+        "duration_years": 2,
+        "description": "Implemented analytics solution using Java, reducing processing time by 40%."
+      },
+      {
+        "company": "EY",
+        "title": "Junior Analyst",
+        "start_date": "Jul 2020",
+        "end_date": "Jul 2021",
+        "duration_years": 1,
+        "description": "Implemented analytics solution using Plotly, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "Accenture",
+        "title": "Data Scientist",
+        "start_date": "Jul 2019",
+        "end_date": "Jul 2020",
+        "duration_years": 1,
+        "description": "Automated analytics solution using Plotly, improving model accuracy by 15%."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Automated Reporting System using Pandas and Tableau",
+        "skills_used": [
+          "Keras",
+          "Pandas",
+          "Java",
+          "Snowflake"
+        ],
+        "impact": "Improved efficiency by 53%"
+      },
+      {
+        "name": "Data Pipeline Optimization using dbt",
+        "skills_used": [
+          "Keras",
+          "GCP",
+          "MongoDB",
+          "Kafka"
+        ],
+        "impact": "Improved efficiency by 17%"
+      },
+      {
+        "name": "Supply Chain Analytics Dashboard with Tableau",
+        "skills_used": [
+          "Scikit-learn",
+          "Team Leadership",
+          "Snowflake",
+          "SAS"
+        ],
+        "impact": "Improved efficiency by 37%"
+      }
+    ],
+    "certifications": [],
+    "resume_text": "Rahul Mehta | Senior Data Scientist | 7 years experience\nSkills: SQL, Java, Plotly, Stakeholder Management, AWS, GCP, Snowflake, Hugging Face, Pandas, Keras, SAS, Agile\nEducation: M.Sc in Data Science from Pune University (2016)\nExperience: Analytics Consultant at Mu Sigma (3yr) | Data Analyst at Tech Mahindra (2yr) | Junior Analyst at EY (1yr) | Data Scientist at Accenture (1yr)\nProjects: Automated Reporting System using Pandas and Tableau | Data Pipeline Optimization using dbt | Supply Chain Analytics Dashboard with Tableau",
+    "applied_date": "2026-06-28",
+    "source": "Naukri",
+    "status": "Under Review"
+  },
+  {
+    "candidate_id": "CAND003",
+    "name": "Ananya Iyer",
+    "email": "ananya.iyer@outlook.com",
+    "phone": "+91 9656643330",
+    "location": "Chennai",
+    "years_experience": 2,
+    "current_role": "Junior Data Analyst",
+    "skills": [
+      "Java",
+      "MySQL",
+      "Plotly",
+      "Redshift",
+      "Scala",
+      "Airflow",
+      "Grafana",
+      "NumPy",
+      "Python"
+    ],
+    "education": {
+      "degree": "B.Sc",
+      "field": "Statistics",
+      "university": "Manipal University",
+      "graduation_year": 2021,
+      "gpa": 8.4
+    },
+    "work_experience": [
+      {
+        "company": "EY",
+        "title": "Analytics Consultant",
+        "start_date": "Jul 2024",
+        "end_date": "Present",
+        "duration_years": 2,
+        "description": "Designed analytics solution using Plotly, enabling real-time decision making."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Data Pipeline Optimization using Airflow",
+        "skills_used": [
+          "MySQL",
+          "Java",
+          "Scala",
+          "Redshift"
+        ],
+        "impact": "Improved efficiency by 56%"
+      },
+      {
+        "name": "Real-time Fraud Detection System using Scikit-learn and AWS",
+        "skills_used": [
+          "Java",
+          "Grafana",
+          "Python",
+          "Plotly"
+        ],
+        "impact": "Improved efficiency by 19%"
+      }
+    ],
+    "certifications": [
+      "Python for Data Science (IBM)"
+    ],
+    "resume_text": "Ananya Iyer | Junior Data Analyst | 2 years experience\nSkills: Java, MySQL, Plotly, Redshift, Scala, Airflow, Grafana, NumPy, Python\nEducation: B.Sc in Statistics from Manipal University (2021)\nExperience: Analytics Consultant at EY (2yr)\nProjects: Data Pipeline Optimization using Airflow | Real-time Fraud Detection System using Scikit-learn and AWS",
+    "applied_date": "2026-06-15",
+    "source": "Naukri",
+    "status": "Under Review"
+  },
+  {
+    "candidate_id": "CAND004",
+    "name": "Vikram Nair",
+    "email": "vikram.nair@yahoo.com",
+    "phone": "+91 9302139064",
+    "location": "Hyderabad",
+    "years_experience": 5,
+    "current_role": "ML Engineer",
+    "skills": [
+      "Looker",
+      "LightGBM",
+      "Java",
+      "Terraform",
+      "MySQL",
+      "Snowflake",
+      "Agile",
+      "Keras",
+      "SAS",
+      "Hadoop",
+      "Julia",
+      "Kafka",
+      "Team Leadership",
+      "Seaborn",
+      "Kubernetes",
+      "Communication"
+    ],
+    "education": {
+      "degree": "M.Tech",
+      "field": "Data Science",
+      "university": "Pune University",
+      "graduation_year": 2018,
+      "gpa": 7.3
+    },
+    "work_experience": [
+      {
+        "company": "TCS",
+        "title": "Analytics Consultant",
+        "start_date": "Jul 2023",
+        "end_date": "Present",
+        "duration_years": 3,
+        "description": "Led analytics solution using MySQL, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "KPMG",
+        "title": "Senior Data Scientist",
+        "start_date": "Jul 2021",
+        "end_date": "Jul 2023",
+        "duration_years": 2,
+        "description": "Developed analytics solution using Terraform, reducing processing time by 40%."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Data Pipeline Optimization using dbt",
+        "skills_used": [
+          "Communication",
+          "Terraform",
+          "Looker",
+          "Java"
+        ],
+        "impact": "Improved efficiency by 31%"
+      },
+      {
+        "name": "Customer Churn Prediction using LightGBM and Hadoop",
+        "skills_used": [
+          "Terraform",
+          "Kafka",
+          "MySQL",
+          "Agile"
+        ],
+        "impact": "Improved efficiency by 15%"
+      },
+      {
+        "name": "Supply Chain Analytics Dashboard with Seaborn",
+        "skills_used": [
+          "Team Leadership",
+          "Snowflake",
+          "Hadoop",
+          "Java"
+        ],
+        "impact": "Improved efficiency by 18%"
+      }
+    ],
+    "certifications": [],
+    "resume_text": "Vikram Nair | ML Engineer | 5 years experience\nSkills: Looker, LightGBM, Java, Terraform, MySQL, Snowflake, Agile, Keras, SAS, Hadoop, Julia, Kafka\nEducation: M.Tech in Data Science from Pune University (2018)\nExperience: Analytics Consultant at TCS (3yr) | Senior Data Scientist at KPMG (2yr)\nProjects: Data Pipeline Optimization using dbt | Customer Churn Prediction using LightGBM and Hadoop | Supply Chain Analytics Dashboard with Seaborn",
+    "applied_date": "2026-06-25",
+    "source": "Naukri",
+    "status": "Shortlisted"
+  },
+  {
+    "candidate_id": "CAND005",
+    "name": "Sneha Patel",
+    "email": "sneha.patel@gmail.com",
+    "phone": "+91 9758985989",
+    "location": "Mumbai",
+    "years_experience": 3,
+    "current_role": "Business Analyst",
+    "skills": [
+      "Looker",
+      "SQL",
+      "Java",
+      "dbt",
+      "Spark",
+      "Redis",
+      "PyTorch",
+      "Problem Solving",
+      "XGBoost",
+      "Agile",
+      "Scala",
+      "BigQuery",
+      "Team Leadership",
+      "Seaborn"
+    ],
+    "education": {
+      "degree": "M.Sc",
+      "field": "Data Science",
+      "university": "Anna University",
+      "graduation_year": 2021,
+      "gpa": 6.7
+    },
+    "work_experience": [
+      {
+        "company": "Tech Mahindra",
+        "title": "Junior Analyst",
+        "start_date": "Jul 2023",
+        "end_date": "Present",
+        "duration_years": 3,
+        "description": "Designed analytics solution using Looker, improving model accuracy by 15%."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Customer Churn Prediction using XGBoost and dbt",
+        "skills_used": [
+          "Redis",
+          "BigQuery",
+          "Seaborn",
+          "Scala"
+        ],
+        "impact": "Improved efficiency by 53%"
+      },
+      {
+        "name": "Real-time Fraud Detection System using XGBoost and AWS",
+        "skills_used": [
+          "Spark",
+          "Team Leadership",
+          "Problem Solving",
+          "Scala"
+        ],
+        "impact": "Improved efficiency by 50%"
+      },
+      {
+        "name": "Sales Forecasting Dashboard with Seaborn and Redis",
+        "skills_used": [
+          "dbt",
+          "Problem Solving",
+          "Scala",
+          "PyTorch"
+        ],
+        "impact": "Improved efficiency by 43%"
+      }
+    ],
+    "certifications": [],
+    "resume_text": "Sneha Patel | Business Analyst | 3 years experience\nSkills: Looker, SQL, Java, dbt, Spark, Redis, PyTorch, Problem Solving, XGBoost, Agile, Scala, BigQuery\nEducation: M.Sc in Data Science from Anna University (2021)\nExperience: Junior Analyst at Tech Mahindra (3yr)\nProjects: Customer Churn Prediction using XGBoost and dbt | Real-time Fraud Detection System using XGBoost and AWS | Sales Forecasting Dashboard with Seaborn and Redis",
+    "applied_date": "2026-07-05",
+    "source": "Referral",
+    "status": "Interview Scheduled"
+  },
+  {
+    "candidate_id": "CAND006",
+    "name": "Arjun Reddy",
+    "email": "arjun.reddy@yahoo.com",
+    "phone": "+91 9737096855",
+    "location": "Bangalore",
+    "years_experience": 8,
+    "current_role": "Data Engineer",
+    "skills": [
+      "Looker",
+      "PostgreSQL",
+      "Terraform",
+      "Redis",
+      "PyTorch",
+      "Problem Solving",
+      "Agile",
+      "Pandas",
+      "SAS",
+      "Hadoop",
+      "Julia",
+      "CatBoost",
+      "Plotly",
+      "Kubernetes",
+      "Python",
+      "Communication"
+    ],
+    "education": {
+      "degree": "BCA",
+      "field": "Electronics",
+      "university": "IIT Madras",
+      "graduation_year": 2015,
+      "gpa": 7.0
+    },
+    "work_experience": [
+      {
+        "company": "KPMG",
+        "title": "Senior Data Scientist",
+        "start_date": "Jul 2023",
+        "end_date": "Present",
+        "duration_years": 3,
+        "description": "Developed analytics solution using Redis, enabling real-time decision making."
+      },
+      {
+        "company": "EY",
+        "title": "ML Engineer",
+        "start_date": "Jul 2020",
+        "end_date": "Jul 2023",
+        "duration_years": 3,
+        "description": "Automated analytics solution using PostgreSQL, supporting $2M revenue decisions."
+      },
+      {
+        "company": "TCS",
+        "title": "Analytics Consultant",
+        "start_date": "Jul 2018",
+        "end_date": "Jul 2020",
+        "duration_years": 2,
+        "description": "Led analytics solution using Looker, supporting $2M revenue decisions."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Automated Reporting System using Hadoop and Plotly",
+        "skills_used": [
+          "Pandas",
+          "Plotly",
+          "Agile",
+          "Problem Solving"
+        ],
+        "impact": "Improved efficiency by 63%"
+      },
+      {
+        "name": "Real-time Fraud Detection System using CatBoost and Terraform",
+        "skills_used": [
+          "SAS",
+          "Problem Solving",
+          "Looker",
+          "Agile"
+        ],
+        "impact": "Improved efficiency by 32%"
+      },
+      {
+        "name": "NLP-based Sentiment Analysis Pipeline using NLTK",
+        "skills_used": [
+          "Plotly",
+          "Looker",
+          "Julia",
+          "PyTorch"
+        ],
+        "impact": "Improved efficiency by 40%"
+      }
+    ],
+    "certifications": [],
+    "resume_text": "Arjun Reddy | Data Engineer | 8 years experience\nSkills: Looker, PostgreSQL, Terraform, Redis, PyTorch, Problem Solving, Agile, Pandas, SAS, Hadoop, Julia, CatBoost\nEducation: BCA in Electronics from IIT Madras (2015)\nExperience: Senior Data Scientist at KPMG (3yr) | ML Engineer at EY (3yr) | Analytics Consultant at TCS (2yr)\nProjects: Automated Reporting System using Hadoop and Plotly | Real-time Fraud Detection System using CatBoost and Terraform | NLP-based Sentiment Analysis Pipeline using NLTK",
+    "applied_date": "2026-06-05",
+    "source": "LinkedIn",
+    "status": "Under Review"
+  },
+  {
+    "candidate_id": "CAND007",
+    "name": "Pooja Gupta",
+    "email": "pooja.gupta@gmail.com",
+    "phone": "+91 9558240576",
+    "location": "Bangalore",
+    "years_experience": 1,
+    "current_role": "Data Analyst Intern",
+    "skills": [
+      "Looker",
+      "SQL",
+      "Java",
+      "Snowflake",
+      "SAS",
+      "Redshift",
+      "Airflow",
+      "Grafana",
+      "NumPy"
+    ],
+    "education": {
+      "degree": "MCA",
+      "field": "Mathematics",
+      "university": "IIT Bombay",
+      "graduation_year": 2022,
+      "gpa": 8.1
+    },
+    "work_experience": [
+      {
+        "company": "Capgemini",
+        "title": "Data Analyst",
+        "start_date": "Jul 2025",
+        "end_date": "Present",
+        "duration_years": 1,
+        "description": "Built analytics solution using SAS, improving model accuracy by 15%."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real-time Fraud Detection System using Scikit-learn and AWS",
+        "skills_used": [
+          "Java",
+          "Looker",
+          "Snowflake",
+          "SQL"
+        ],
+        "impact": "Improved efficiency by 69%"
+      }
+    ],
+    "certifications": [
+      "SQL for Data Science (Coursera)"
+    ],
+    "resume_text": "Pooja Gupta | Data Analyst Intern | 1 years experience\nSkills: Looker, SQL, Java, Snowflake, SAS, Redshift, Airflow, Grafana, NumPy\nEducation: MCA in Mathematics from IIT Bombay (2022)\nExperience: Data Analyst at Capgemini (1yr)\nProjects: Real-time Fraud Detection System using Scikit-learn and AWS",
+    "applied_date": "2026-06-10",
+    "source": "Company Website",
+    "status": "Offer Extended"
+  },
+  {
+    "candidate_id": "CAND008",
+    "name": "Karan Singh",
+    "email": "karan.singh@outlook.com",
+    "phone": "+91 9702360204",
+    "location": "Chennai",
+    "years_experience": 6,
+    "current_role": "Senior ML Engineer",
+    "skills": [
+      "Looker",
+      "Grafana",
+      "Java",
+      "Spark",
+      "Azure",
+      "Stakeholder Management",
+      "PyTorch",
+      "AWS",
+      "Problem Solving",
+      "XGBoost",
+      "R",
+      "Redshift",
+      "Kafka",
+      "MongoDB",
+      "Python",
+      "Communication"
+    ],
+    "education": {
+      "degree": "MBA",
+      "field": "Data Science",
+      "university": "NIT Pune",
+      "graduation_year": 2017,
+      "gpa": 7.0
+    },
+    "work_experience": [
+      {
+        "company": "Wipro",
+        "title": "Senior Data Scientist",
+        "start_date": "Jul 2024",
+        "end_date": "Present",
+        "duration_years": 2,
+        "description": "Built analytics solution using Spark, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "Fractal Analytics",
+        "title": "Data Analyst",
+        "start_date": "Jul 2022",
+        "end_date": "Jul 2024",
+        "duration_years": 2,
+        "description": "Optimized analytics solution using Azure, reducing processing time by 40%."
+      },
+      {
+        "company": "EY",
+        "title": "Data Analyst",
+        "start_date": "Jul 2020",
+        "end_date": "Jul 2022",
+        "duration_years": 2,
+        "description": "Developed analytics solution using Java, saving 20 hours/week of manual effort."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Supply Chain Analytics Dashboard with Grafana",
+        "skills_used": [
+          "Spark",
+          "AWS",
+          "PyTorch",
+          "Stakeholder Management"
+        ],
+        "impact": "Improved efficiency by 31%"
+      },
+      {
+        "name": "Real-time Fraud Detection System using XGBoost and AWS",
+        "skills_used": [
+          "Communication",
+          "Grafana",
+          "Python",
+          "Problem Solving"
+        ],
+        "impact": "Improved efficiency by 37%"
+      },
+      {
+        "name": "Data Pipeline Optimization using Spark",
+        "skills_used": [
+          "PyTorch",
+          "Spark",
+          "MongoDB",
+          "Java"
+        ],
+        "impact": "Improved efficiency by 57%"
+      }
+    ],
+    "certifications": [],
+    "resume_text": "Karan Singh | Senior ML Engineer | 6 years experience\nSkills: Looker, Grafana, Java, Spark, Azure, Stakeholder Management, PyTorch, AWS, Problem Solving, XGBoost, R, Redshift\nEducation: MBA in Data Science from NIT Pune (2017)\nExperience: Senior Data Scientist at Wipro (2yr) | Data Analyst at Fractal Analytics (2yr) | Data Analyst at EY (2yr)\nProjects: Supply Chain Analytics Dashboard with Grafana | Real-time Fraud Detection System using XGBoost and AWS | Data Pipeline Optimization using Spark",
+    "applied_date": "2026-06-20",
+    "source": "Company Website",
+    "status": "Interview Scheduled"
+  },
+  {
+    "candidate_id": "CAND009",
+    "name": "Divya Menon",
+    "email": "divya.menon@outlook.com",
+    "phone": "+91 9981116832",
+    "location": "Delhi",
+    "years_experience": 3,
+    "current_role": "Data Analyst",
+    "skills": [
+      "Looker",
+      "Java",
+      "Power BI",
+      "MySQL",
+      "Spark",
+      "Stakeholder Management",
+      "XGBoost",
+      "Keras",
+      "Agile",
+      "Julia",
+      "Kafka",
+      "Team Leadership",
+      "MongoDB",
+      "Python"
+    ],
+    "education": {
+      "degree": "B.Sc",
+      "field": "Mathematics",
+      "university": "Anna University",
+      "graduation_year": 2021,
+      "gpa": 9.4
+    },
+    "work_experience": [
+      {
+        "company": "TCS",
+        "title": "Data Scientist",
+        "start_date": "Jul 2025",
+        "end_date": "Present",
+        "duration_years": 1,
+        "description": "Optimized analytics solution using Looker, improving model accuracy by 15%."
+      },
+      {
+        "company": "Cognizant",
+        "title": "Analytics Consultant",
+        "start_date": "Jul 2023",
+        "end_date": "Jul 2025",
+        "duration_years": 2,
+        "description": "Automated analytics solution using Power BI, enabling real-time decision making."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Data Pipeline Optimization using Airflow",
+        "skills_used": [
+          "Python",
+          "Agile",
+          "Kafka",
+          "XGBoost"
+        ],
+        "impact": "Improved efficiency by 26%"
+      },
+      {
+        "name": "NLP-based Sentiment Analysis Pipeline using NLTK",
+        "skills_used": [
+          "MySQL",
+          "Java",
+          "Power BI",
+          "Julia"
+        ],
+        "impact": "Improved efficiency by 68%"
+      },
+      {
+        "name": "Customer Churn Prediction using XGBoost and Spark",
+        "skills_used": [
+          "XGBoost",
+          "Python",
+          "Kafka",
+          "Stakeholder Management"
+        ],
+        "impact": "Improved efficiency by 18%"
+      }
+    ],
+    "certifications": [
+      "Python for Data Science (IBM)"
+    ],
+    "resume_text": "Divya Menon | Data Analyst | 3 years experience\nSkills: Looker, Java, Power BI, MySQL, Spark, Stakeholder Management, XGBoost, Keras, Agile, Julia, Kafka, Team Leadership\nEducation: B.Sc in Mathematics from Anna University (2021)\nExperience: Data Scientist at TCS (1yr) | Analytics Consultant at Cognizant (2yr)\nProjects: Data Pipeline Optimization using Airflow | NLP-based Sentiment Analysis Pipeline using NLTK | Customer Churn Prediction using XGBoost and Spark",
+    "applied_date": "2026-06-06",
+    "source": "Indeed",
+    "status": "Rejected"
+  },
+  {
+    "candidate_id": "CAND010",
+    "name": "Rohan Das",
+    "email": "rohan.das@gmail.com",
+    "phone": "+91 9290261799",
+    "location": "Mumbai",
+    "years_experience": 9,
+    "current_role": "Principal Data Scientist",
+    "skills": [
+      "Looker",
+      "SQL",
+      "TensorFlow",
+      "spaCy",
+      "dbt",
+      "Team Leadership",
+      "Stakeholder Management",
+      "GCP",
+      "Problem Solving",
+      "Snowflake",
+      "XGBoost",
+      "NLTK",
+      "Scala",
+      "BigQuery",
+      "Airflow",
+      "Plotly",
+      "Kubernetes",
+      "Python"
+    ],
+    "education": {
+      "degree": "M.Sc",
+      "field": "Computer Science",
+      "university": "IIT Bombay",
+      "graduation_year": 2015,
+      "gpa": 9.4
+    },
+    "work_experience": [
+      {
+        "company": "Accenture",
+        "title": "Senior Data Analyst",
+        "start_date": "Jul 2025",
+        "end_date": "Present",
+        "duration_years": 1,
+        "description": "Optimized analytics solution using TensorFlow, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "Infosys",
+        "title": "Analytics Consultant",
+        "start_date": "Jul 2024",
+        "end_date": "Jul 2025",
+        "duration_years": 1,
+        "description": "Built analytics solution using SQL, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "Capgemini",
+        "title": "Junior Analyst",
+        "start_date": "Jul 2023",
+        "end_date": "Jul 2024",
+        "duration_years": 1,
+        "description": "Developed analytics solution using TensorFlow, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "Tiger Analytics",
+        "title": "Senior Data Scientist",
+        "start_date": "Jul 2022",
+        "end_date": "Jul 2023",
+        "duration_years": 1,
+        "description": "Automated analytics solution using dbt, reducing processing time by 40%."
+      },
+      {
+        "company": "Tech Mahindra",
+        "title": "Analytics Consultant",
+        "start_date": "Jul 2021",
+        "end_date": "Jul 2022",
+        "duration_years": 1,
+        "description": "Led analytics solution using spaCy, enabling real-time decision making."
+      },
+      {
+        "company": "Tech Mahindra",
+        "title": "Data Engineer",
+        "start_date": "Jul 2019",
+        "end_date": "Jul 2021",
+        "duration_years": 2,
+        "description": "Developed analytics solution using SQL, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "Capgemini",
+        "title": "Data Analyst",
+        "start_date": "Jul 2018",
+        "end_date": "Jul 2019",
+        "duration_years": 1,
+        "description": "Implemented analytics solution using spaCy, supporting $2M revenue decisions."
+      },
+      {
+        "company": "IBM",
+        "title": "Junior Analyst",
+        "start_date": "Jul 2017",
+        "end_date": "Jul 2018",
+        "duration_years": 1,
+        "description": "Implemented analytics solution using SQL, supporting $2M revenue decisions."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sales Forecasting Dashboard with Looker and Snowflake",
+        "skills_used": [
+          "Scala",
+          "GCP",
+          "spaCy",
+          "Problem Solving"
+        ],
+        "impact": "Improved efficiency by 45%"
+      },
+      {
+        "name": "NLP-based Sentiment Analysis Pipeline using spaCy",
+        "skills_used": [
+          "Airflow",
+          "Stakeholder Management",
+          "spaCy",
+          "NLTK"
+        ],
+        "impact": "Improved efficiency by 47%"
+      },
+      {
+        "name": "Real-time Fraud Detection System using TensorFlow and Kubernetes",
+        "skills_used": [
+          "XGBoost",
+          "Stakeholder Management",
+          "Kubernetes",
+          "Plotly"
+        ],
+        "impact": "Improved efficiency by 49%"
+      }
+    ],
+    "certifications": [],
+    "resume_text": "Rohan Das | Principal Data Scientist | 9 years experience\nSkills: Looker, SQL, TensorFlow, spaCy, dbt, Team Leadership, Stakeholder Management, GCP, Problem Solving, Snowflake, XGBoost, NLTK\nEducation: M.Sc in Computer Science from IIT Bombay (2015)\nExperience: Senior Data Analyst at Accenture (1yr) | Analytics Consultant at Infosys (1yr) | Junior Analyst at Capgemini (1yr) | Senior Data Scientist at Tiger Analytics (1yr) | Analytics Consultant at Tech Mahindra (1yr) | Data Engineer at Tech Mahindra (2yr) | Data Analyst at Capgemini (1yr) | Junior Analyst at IBM (1yr)\nProjects: Sales Forecasting Dashboard with Looker and Snowflake | NLP-based Sentiment Analysis Pipeline using spaCy | Real-time Fraud Detection System using TensorFlow and Kubernetes",
+    "applied_date": "2026-06-25",
+    "source": "LinkedIn",
+    "status": "Offer Extended"
+  },
+  {
+    "candidate_id": "CAND011",
+    "name": "Meera Joshi",
+    "email": "meera.joshi@yahoo.com",
+    "phone": "+91 9532050998",
+    "location": "Hyderabad",
+    "years_experience": 4,
+    "current_role": "Analytics Engineer",
+    "skills": [
+      "Looker",
+      "SQL",
+      "LightGBM",
+      "Power BI",
+      "MySQL",
+      "PyTorch",
+      "Problem Solving",
+      "Agile",
+      "SAS",
+      "Kafka",
+      "BigQuery",
+      "Airflow",
+      "Python",
+      "Communication"
+    ],
+    "education": {
+      "degree": "BCA",
+      "field": "Computer Science",
+      "university": "Anna University",
+      "graduation_year": 2020,
+      "gpa": 8.0
+    },
+    "work_experience": [
+      {
+        "company": "EY",
+        "title": "Senior Data Scientist",
+        "start_date": "Jul 2025",
+        "end_date": "Present",
+        "duration_years": 1,
+        "description": "Developed analytics solution using MySQL, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "Fractal Analytics",
+        "title": "Senior Data Analyst",
+        "start_date": "Jul 2024",
+        "end_date": "Jul 2025",
+        "duration_years": 1,
+        "description": "Implemented analytics solution using SQL, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "Wipro",
+        "title": "Data Engineer",
+        "start_date": "Jul 2022",
+        "end_date": "Jul 2024",
+        "duration_years": 2,
+        "description": "Automated analytics solution using Power BI, enabling real-time decision making."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Automated Reporting System using Kafka and Looker",
+        "skills_used": [
+          "Python",
+          "BigQuery",
+          "MySQL",
+          "Airflow"
+        ],
+        "impact": "Improved efficiency by 61%"
+      },
+      {
+        "name": "A/B Testing Framework using Python and Statistical Analysis",
+        "skills_used": [
+          "PyTorch",
+          "BigQuery",
+          "Problem Solving",
+          "LightGBM"
+        ],
+        "impact": "Improved efficiency by 24%"
+      },
+      {
+        "name": "Sales Forecasting Dashboard with Looker and MySQL",
+        "skills_used": [
+          "Communication",
+          "BigQuery",
+          "LightGBM",
+          "Agile"
+        ],
+        "impact": "Improved efficiency by 39%"
+      }
+    ],
+    "certifications": [
+      "Microsoft PL-300: Power BI Data Analyst",
+      "SQL for Data Science (Coursera)"
+    ],
+    "resume_text": "Meera Joshi | Analytics Engineer | 4 years experience\nSkills: Looker, SQL, LightGBM, Power BI, MySQL, PyTorch, Problem Solving, Agile, SAS, Kafka, BigQuery, Airflow\nEducation: BCA in Computer Science from Anna University (2020)\nExperience: Senior Data Scientist at EY (1yr) | Senior Data Analyst at Fractal Analytics (1yr) | Data Engineer at Wipro (2yr)\nProjects: Automated Reporting System using Kafka and Looker | A/B Testing Framework using Python and Statistical Analysis | Sales Forecasting Dashboard with Looker and MySQL",
+    "applied_date": "2026-06-11",
+    "source": "Referral",
+    "status": "Under Review"
+  },
+  {
+    "candidate_id": "CAND012",
+    "name": "Aditya Kumar",
+    "email": "aditya.kumar@yahoo.com",
+    "phone": "+91 9827716389",
+    "location": "Chennai",
+    "years_experience": 2,
+    "current_role": "Junior Data Scientist",
+    "skills": [
+      "SQL",
+      "Redis",
+      "Hugging Face",
+      "Hadoop",
+      "Scala",
+      "BigQuery",
+      "Tableau",
+      "Airflow",
+      "Seaborn",
+      "BERT",
+      "Python"
+    ],
+    "education": {
+      "degree": "MBA",
+      "field": "Data Science",
+      "university": "Manipal University",
+      "graduation_year": 2022,
+      "gpa": 6.7
+    },
+    "work_experience": [
+      {
+        "company": "Fractal Analytics",
+        "title": "Analytics Consultant",
+        "start_date": "Jul 2025",
+        "end_date": "Present",
+        "duration_years": 1,
+        "description": "Designed analytics solution using Hadoop, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "Tiger Analytics",
+        "title": "Data Engineer",
+        "start_date": "Jul 2024",
+        "end_date": "Jul 2025",
+        "duration_years": 1,
+        "description": "Designed analytics solution using Scala, supporting $2M revenue decisions."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real-time Fraud Detection System using Scikit-learn and AWS",
+        "skills_used": [
+          "Seaborn",
+          "Hadoop",
+          "Hugging Face",
+          "Airflow"
+        ],
+        "impact": "Improved efficiency by 45%"
+      },
+      {
+        "name": "Sales Forecasting Dashboard with Seaborn and BigQuery",
+        "skills_used": [
+          "SQL",
+          "Tableau",
+          "Python",
+          "Hadoop"
+        ],
+        "impact": "Improved efficiency by 66%"
+      }
+    ],
+    "certifications": [],
+    "resume_text": "Aditya Kumar | Junior Data Scientist | 2 years experience\nSkills: SQL, Redis, Hugging Face, Hadoop, Scala, BigQuery, Tableau, Airflow, Seaborn, BERT, Python\nEducation: MBA in Data Science from Manipal University (2022)\nExperience: Analytics Consultant at Fractal Analytics (1yr) | Data Engineer at Tiger Analytics (1yr)\nProjects: Real-time Fraud Detection System using Scikit-learn and AWS | Sales Forecasting Dashboard with Seaborn and BigQuery",
+    "applied_date": "2026-06-12",
+    "source": "Naukri",
+    "status": "Shortlisted"
+  },
+  {
+    "candidate_id": "CAND013",
+    "name": "Neha Batra",
+    "email": "neha.batra@outlook.com",
+    "phone": "+91 9871478437",
+    "location": "Delhi",
+    "years_experience": 5,
+    "current_role": "Data Scientist",
+    "skills": [
+      "TensorFlow",
+      "MySQL",
+      "Redis",
+      "spaCy",
+      "Azure",
+      "LangChain",
+      "AWS",
+      "Problem Solving",
+      "Agile",
+      "R",
+      "Scala",
+      "Hadoop",
+      "Kafka",
+      "Matplotlib",
+      "CatBoost",
+      "Plotly",
+      "Python",
+      "Communication"
+    ],
+    "education": {
+      "degree": "M.Tech",
+      "field": "Statistics",
+      "university": "IIT Madras",
+      "graduation_year": 2018,
+      "gpa": 9.8
+    },
+    "work_experience": [
+      {
+        "company": "Cognizant",
+        "title": "Analytics Consultant",
+        "start_date": "Jul 2023",
+        "end_date": "Present",
+        "duration_years": 3,
+        "description": "Automated analytics solution using spaCy, supporting $2M revenue decisions."
+      },
+      {
+        "company": "Cognizant",
+        "title": "Data Engineer",
+        "start_date": "Jul 2021",
+        "end_date": "Jul 2023",
+        "duration_years": 2,
+        "description": "Built analytics solution using Redis, enabling real-time decision making."
+      }
+    ],
+    "projects": [
+      {
+        "name": "A/B Testing Framework using Python and Statistical Analysis",
+        "skills_used": [
+          "Azure",
+          "Hadoop",
+          "R",
+          "TensorFlow"
+        ],
+        "impact": "Improved efficiency by 69%"
+      },
+      {
+        "name": "Data Pipeline Optimization using dbt",
+        "skills_used": [
+          "Kafka",
+          "TensorFlow",
+          "LangChain",
+          "Hadoop"
+        ],
+        "impact": "Improved efficiency by 50%"
+      },
+      {
+        "name": "Automated Reporting System using Kafka and Plotly",
+        "skills_used": [
+          "Python",
+          "Problem Solving",
+          "Kafka",
+          "Hadoop"
+        ],
+        "impact": "Improved efficiency by 31%"
+      }
+    ],
+    "certifications": [
+      "Python for Data Science (IBM)",
+      "TensorFlow Developer Certificate"
+    ],
+    "resume_text": "Neha Batra | Data Scientist | 5 years experience\nSkills: TensorFlow, MySQL, Redis, spaCy, Azure, LangChain, AWS, Problem Solving, Agile, R, Scala, Hadoop\nEducation: M.Tech in Statistics from IIT Madras (2018)\nExperience: Analytics Consultant at Cognizant (3yr) | Data Engineer at Cognizant (2yr)\nProjects: A/B Testing Framework using Python and Statistical Analysis | Data Pipeline Optimization using dbt | Automated Reporting System using Kafka and Plotly",
+    "applied_date": "2026-06-16",
+    "source": "LinkedIn",
+    "status": "Rejected"
+  },
+  {
+    "candidate_id": "CAND014",
+    "name": "Siddharth Rao",
+    "email": "siddharth.rao@gmail.com",
+    "phone": "+91 9322107080",
+    "location": "Chennai",
+    "years_experience": 3,
+    "current_role": "Business Intelligence Analyst",
+    "skills": [
+      "SQL",
+      "TensorFlow",
+      "Power BI",
+      "Spark",
+      "Team Leadership",
+      "Problem Solving",
+      "Snowflake",
+      "Agile",
+      "Pandas",
+      "SAS",
+      "R",
+      "BigQuery",
+      "CatBoost",
+      "Grafana"
+    ],
+    "education": {
+      "degree": "MCA",
+      "field": "Electronics",
+      "university": "IIT Delhi",
+      "graduation_year": 2021,
+      "gpa": 9.0
+    },
+    "work_experience": [
+      {
+        "company": "KPMG",
+        "title": "Data Analyst",
+        "start_date": "Jul 2023",
+        "end_date": "Present",
+        "duration_years": 3,
+        "description": "Developed analytics solution using TensorFlow, saving 20 hours/week of manual effort."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Customer Churn Prediction using CatBoost and Spark",
+        "skills_used": [
+          "Snowflake",
+          "TensorFlow",
+          "Pandas",
+          "Spark"
+        ],
+        "impact": "Improved efficiency by 43%"
+      },
+      {
+        "name": "Sales Forecasting Dashboard with Grafana and Snowflake",
+        "skills_used": [
+          "SQL",
+          "R",
+          "Power BI",
+          "Problem Solving"
+        ],
+        "impact": "Improved efficiency by 43%"
+      },
+      {
+        "name": "Real-time Fraud Detection System using TensorFlow and AWS",
+        "skills_used": [
+          "Pandas",
+          "Problem Solving",
+          "CatBoost",
+          "SAS"
+        ],
+        "impact": "Improved efficiency by 21%"
+      }
+    ],
+    "certifications": [
+      "Microsoft PL-300: Power BI Data Analyst",
+      "SQL for Data Science (Coursera)"
+    ],
+    "resume_text": "Siddharth Rao | Business Intelligence Analyst | 3 years experience\nSkills: SQL, TensorFlow, Power BI, Spark, Team Leadership, Problem Solving, Snowflake, Agile, Pandas, SAS, R, BigQuery\nEducation: MCA in Electronics from IIT Delhi (2021)\nExperience: Data Analyst at KPMG (3yr)\nProjects: Customer Churn Prediction using CatBoost and Spark | Sales Forecasting Dashboard with Grafana and Snowflake | Real-time Fraud Detection System using TensorFlow and AWS",
+    "applied_date": "2026-06-12",
+    "source": "Naukri",
+    "status": "Shortlisted"
+  },
+  {
+    "candidate_id": "CAND015",
+    "name": "Kavita Verma",
+    "email": "kavita.verma@yahoo.com",
+    "phone": "+91 9872607878",
+    "location": "Delhi",
+    "years_experience": 7,
+    "current_role": "Senior Data Analyst",
+    "skills": [
+      "TensorFlow",
+      "Java",
+      "MySQL",
+      "Team Leadership",
+      "Azure",
+      "Stakeholder Management",
+      "Problem Solving",
+      "XGBoost",
+      "Pandas",
+      "SAS",
+      "R",
+      "Matplotlib",
+      "Tableau",
+      "Kubernetes",
+      "MongoDB",
+      "NumPy"
+    ],
+    "education": {
+      "degree": "MBA",
+      "field": "Mathematics",
+      "university": "IIT Delhi",
+      "graduation_year": 2017,
+      "gpa": 6.8
+    },
+    "work_experience": [
+      {
+        "company": "Deloitte",
+        "title": "Data Analyst",
+        "start_date": "Jul 2023",
+        "end_date": "Present",
+        "duration_years": 3,
+        "description": "Built analytics solution using MySQL, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "Latent View",
+        "title": "Data Analyst",
+        "start_date": "Jul 2022",
+        "end_date": "Jul 2023",
+        "duration_years": 1,
+        "description": "Automated analytics solution using TensorFlow, enabling real-time decision making."
+      },
+      {
+        "company": "HCL",
+        "title": "Data Scientist",
+        "start_date": "Jul 2021",
+        "end_date": "Jul 2022",
+        "duration_years": 1,
+        "description": "Optimized analytics solution using TensorFlow, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "TCS",
+        "title": "Senior Data Scientist",
+        "start_date": "Jul 2020",
+        "end_date": "Jul 2021",
+        "duration_years": 1,
+        "description": "Developed analytics solution using Team Leadership, enabling real-time decision making."
+      },
+      {
+        "company": "Accenture",
+        "title": "Data Engineer",
+        "start_date": "Jul 2019",
+        "end_date": "Jul 2020",
+        "duration_years": 1,
+        "description": "Led analytics solution using MySQL, enabling real-time decision making."
+      }
+    ],
+    "projects": [
+      {
+        "name": "NLP-based Sentiment Analysis Pipeline using NLTK",
+        "skills_used": [
+          "Team Leadership",
+          "Kubernetes",
+          "Pandas",
+          "SAS"
+        ],
+        "impact": "Improved efficiency by 65%"
+      },
+      {
+        "name": "Supply Chain Analytics Dashboard with Tableau",
+        "skills_used": [
+          "NumPy",
+          "Tableau",
+          "MySQL",
+          "Azure"
+        ],
+        "impact": "Improved efficiency by 17%"
+      },
+      {
+        "name": "Sales Forecasting Dashboard with Matplotlib and MySQL",
+        "skills_used": [
+          "Problem Solving",
+          "SAS",
+          "NumPy",
+          "Tableau"
+        ],
+        "impact": "Improved efficiency by 59%"
+      }
+    ],
+    "certifications": [
+      "Tableau Desktop Specialist",
+      "TensorFlow Developer Certificate"
+    ],
+    "resume_text": "Kavita Verma | Senior Data Analyst | 7 years experience\nSkills: TensorFlow, Java, MySQL, Team Leadership, Azure, Stakeholder Management, Problem Solving, XGBoost, Pandas, SAS, R, Matplotlib\nEducation: MBA in Mathematics from IIT Delhi (2017)\nExperience: Data Analyst at Deloitte (3yr) | Data Analyst at Latent View (1yr) | Data Scientist at HCL (1yr) | Senior Data Scientist at TCS (1yr) | Data Engineer at Accenture (1yr)\nProjects: NLP-based Sentiment Analysis Pipeline using NLTK | Supply Chain Analytics Dashboard with Tableau | Sales Forecasting Dashboard with Matplotlib and MySQL",
+    "applied_date": "2026-07-03",
+    "source": "Indeed",
+    "status": "Shortlisted"
+  },
+  {
+    "candidate_id": "CAND016",
+    "name": "Manish Tiwari",
+    "email": "manish.tiwari@yahoo.com",
+    "phone": "+91 9433444289",
+    "location": "Hyderabad",
+    "years_experience": 1,
+    "current_role": "Data Analyst Fresher",
+    "skills": [
+      "Looker",
+      "SQL",
+      "Power BI",
+      "MySQL",
+      "Redis",
+      "Julia",
+      "Hadoop",
+      "SAS",
+      "NumPy"
+    ],
+    "education": {
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "university": "Anna University",
+      "graduation_year": 2023,
+      "gpa": 7.7
+    },
+    "work_experience": [
+      {
+        "company": "Deloitte",
+        "title": "Data Analyst",
+        "start_date": "Jul 2025",
+        "end_date": "Present",
+        "duration_years": 1,
+        "description": "Implemented analytics solution using MySQL, improving model accuracy by 15%."
+      }
+    ],
+    "projects": [
+      {
+        "name": "A/B Testing Framework using Python and Statistical Analysis",
+        "skills_used": [
+          "Julia",
+          "NumPy",
+          "Looker",
+          "SQL"
+        ],
+        "impact": "Improved efficiency by 34%"
+      }
+    ],
+    "certifications": [],
+    "resume_text": "Manish Tiwari | Data Analyst Fresher | 1 years experience\nSkills: Looker, SQL, Power BI, MySQL, Redis, Julia, Hadoop, SAS, NumPy\nEducation: B.Tech in Computer Science from Anna University (2023)\nExperience: Data Analyst at Deloitte (1yr)\nProjects: A/B Testing Framework using Python and Statistical Analysis",
+    "applied_date": "2026-06-11",
+    "source": "Company Website",
+    "status": "Offer Extended"
+  },
+  {
+    "candidate_id": "CAND017",
+    "name": "Swati Agarwal",
+    "email": "swati.agarwal@outlook.com",
+    "phone": "+91 9573471149",
+    "location": "Delhi",
+    "years_experience": 6,
+    "current_role": "ML Ops Engineer",
+    "skills": [
+      "PostgreSQL",
+      "Java",
+      "Stakeholder Management",
+      "Team Leadership",
+      "GCP",
+      "XGBoost",
+      "Pandas",
+      "SAS",
+      "Hadoop",
+      "Scala",
+      "Matplotlib",
+      "CatBoost",
+      "Seaborn",
+      "MongoDB",
+      "Docker",
+      "Communication"
+    ],
+    "education": {
+      "degree": "M.Tech",
+      "field": "Information Technology",
+      "university": "Anna University",
+      "graduation_year": 2017,
+      "gpa": 8.7
+    },
+    "work_experience": [
+      {
+        "company": "Capgemini",
+        "title": "Data Scientist",
+        "start_date": "Jul 2023",
+        "end_date": "Present",
+        "duration_years": 3,
+        "description": "Automated analytics solution using Java, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "Tech Mahindra",
+        "title": "Senior Data Analyst",
+        "start_date": "Jul 2021",
+        "end_date": "Jul 2023",
+        "duration_years": 2,
+        "description": "Led analytics solution using PostgreSQL, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "IBM",
+        "title": "Data Analyst",
+        "start_date": "Jul 2020",
+        "end_date": "Jul 2021",
+        "duration_years": 1,
+        "description": "Optimized analytics solution using Java, improving model accuracy by 15%."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Supply Chain Analytics Dashboard with Seaborn",
+        "skills_used": [
+          "Java",
+          "Matplotlib",
+          "Docker",
+          "Scala"
+        ],
+        "impact": "Improved efficiency by 21%"
+      },
+      {
+        "name": "NLP-based Sentiment Analysis Pipeline using NLTK",
+        "skills_used": [
+          "Communication",
+          "Seaborn",
+          "XGBoost",
+          "Docker"
+        ],
+        "impact": "Improved efficiency by 16%"
+      },
+      {
+        "name": "Sales Forecasting Dashboard with Seaborn and MongoDB",
+        "skills_used": [
+          "GCP",
+          "Seaborn",
+          "Docker",
+          "SAS"
+        ],
+        "impact": "Improved efficiency by 34%"
+      }
+    ],
+    "certifications": [],
+    "resume_text": "Swati Agarwal | ML Ops Engineer | 6 years experience\nSkills: PostgreSQL, Java, Stakeholder Management, Team Leadership, GCP, XGBoost, Pandas, SAS, Hadoop, Scala, Matplotlib, CatBoost\nEducation: M.Tech in Information Technology from Anna University (2017)\nExperience: Data Scientist at Capgemini (3yr) | Senior Data Analyst at Tech Mahindra (2yr) | Data Analyst at IBM (1yr)\nProjects: Supply Chain Analytics Dashboard with Seaborn | NLP-based Sentiment Analysis Pipeline using NLTK | Sales Forecasting Dashboard with Seaborn and MongoDB",
+    "applied_date": "2026-06-21",
+    "source": "Referral",
+    "status": "Interview Scheduled"
+  },
+  {
+    "candidate_id": "CAND018",
+    "name": "Rajesh Pillai",
+    "email": "rajesh.pillai@gmail.com",
+    "phone": "+91 9817349921",
+    "location": "Chennai",
+    "years_experience": 4,
+    "current_role": "Data Analyst",
+    "skills": [
+      "Looker",
+      "LightGBM",
+      "Team Leadership",
+      "Stakeholder Management",
+      "Snowflake",
+      "XGBoost",
+      "Julia",
+      "Hadoop",
+      "Scala",
+      "SAS",
+      "BigQuery",
+      "Airflow",
+      "Grafana",
+      "Communication"
+    ],
+    "education": {
+      "degree": "BCA",
+      "field": "Information Technology",
+      "university": "VIT Vellore",
+      "graduation_year": 2019,
+      "gpa": 9.7
+    },
+    "work_experience": [
+      {
+        "company": "Mu Sigma",
+        "title": "Data Analyst",
+        "start_date": "Jul 2024",
+        "end_date": "Present",
+        "duration_years": 2,
+        "description": "Developed analytics solution using Stakeholder Management, supporting $2M revenue decisions."
+      },
+      {
+        "company": "Wipro",
+        "title": "Data Scientist",
+        "start_date": "Jul 2022",
+        "end_date": "Jul 2024",
+        "duration_years": 2,
+        "description": "Developed analytics solution using Stakeholder Management, reducing processing time by 40%."
+      }
+    ],
+    "projects": [
+      {
+        "name": "NLP-based Sentiment Analysis Pipeline using NLTK",
+        "skills_used": [
+          "SAS",
+          "Team Leadership",
+          "Snowflake",
+          "Communication"
+        ],
+        "impact": "Improved efficiency by 40%"
+      },
+      {
+        "name": "Sales Forecasting Dashboard with Grafana and BigQuery",
+        "skills_used": [
+          "Team Leadership",
+          "LightGBM",
+          "Stakeholder Management",
+          "XGBoost"
+        ],
+        "impact": "Improved efficiency by 17%"
+      },
+      {
+        "name": "Data Pipeline Optimization using Spark",
+        "skills_used": [
+          "Scala",
+          "Stakeholder Management",
+          "Grafana",
+          "Julia"
+        ],
+        "impact": "Improved efficiency by 45%"
+      }
+    ],
+    "certifications": [],
+    "resume_text": "Rajesh Pillai | Data Analyst | 4 years experience\nSkills: Looker, LightGBM, Team Leadership, Stakeholder Management, Snowflake, XGBoost, Julia, Hadoop, Scala, SAS, BigQuery, Airflow\nEducation: BCA in Information Technology from VIT Vellore (2019)\nExperience: Data Analyst at Mu Sigma (2yr) | Data Scientist at Wipro (2yr)\nProjects: NLP-based Sentiment Analysis Pipeline using NLTK | Sales Forecasting Dashboard with Grafana and BigQuery | Data Pipeline Optimization using Spark",
+    "applied_date": "2026-06-10",
+    "source": "LinkedIn",
+    "status": "Rejected"
+  },
+  {
+    "candidate_id": "CAND019",
+    "name": "Isha Chopra",
+    "email": "isha.chopra@outlook.com",
+    "phone": "+91 9357035895",
+    "location": "Bangalore",
+    "years_experience": 8,
+    "current_role": "Data Science Lead",
+    "skills": [
+      "TensorFlow",
+      "Power BI",
+      "MySQL",
+      "Redis",
+      "Spark",
+      "Docker",
+      "Stakeholder Management",
+      "PyTorch",
+      "AWS",
+      "Agile",
+      "SAS",
+      "Julia",
+      "Seaborn",
+      "NumPy",
+      "Python",
+      "Communication"
+    ],
+    "education": {
+      "degree": "MBA",
+      "field": "Computer Science",
+      "university": "IIT Madras",
+      "graduation_year": 2015,
+      "gpa": 8.3
+    },
+    "work_experience": [
+      {
+        "company": "IBM",
+        "title": "Data Engineer",
+        "start_date": "Jul 2025",
+        "end_date": "Present",
+        "duration_years": 1,
+        "description": "Designed analytics solution using MySQL, supporting $2M revenue decisions."
+      },
+      {
+        "company": "HCL",
+        "title": "Data Scientist",
+        "start_date": "Jul 2024",
+        "end_date": "Jul 2025",
+        "duration_years": 1,
+        "description": "Optimized analytics solution using MySQL, improving model accuracy by 15%."
+      },
+      {
+        "company": "Mu Sigma",
+        "title": "Junior Analyst",
+        "start_date": "Jul 2022",
+        "end_date": "Jul 2024",
+        "duration_years": 2,
+        "description": "Optimized analytics solution using MySQL, improving model accuracy by 15%."
+      },
+      {
+        "company": "Infosys",
+        "title": "Analytics Consultant",
+        "start_date": "Jul 2019",
+        "end_date": "Jul 2022",
+        "duration_years": 3,
+        "description": "Developed analytics solution using MySQL, improving model accuracy by 15%."
+      },
+      {
+        "company": "HCL",
+        "title": "Senior Data Scientist",
+        "start_date": "Jul 2018",
+        "end_date": "Jul 2019",
+        "duration_years": 1,
+        "description": "Optimized analytics solution using Spark, saving 20 hours/week of manual effort."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Customer Churn Prediction using TensorFlow and NumPy",
+        "skills_used": [
+          "Agile",
+          "SAS",
+          "MySQL",
+          "AWS"
+        ],
+        "impact": "Improved efficiency by 48%"
+      },
+      {
+        "name": "NLP-based Sentiment Analysis Pipeline using NLTK",
+        "skills_used": [
+          "MySQL",
+          "Seaborn",
+          "SAS",
+          "NumPy"
+        ],
+        "impact": "Improved efficiency by 30%"
+      },
+      {
+        "name": "Supply Chain Analytics Dashboard with Seaborn",
+        "skills_used": [
+          "Power BI",
+          "Seaborn",
+          "Docker",
+          "NumPy"
+        ],
+        "impact": "Improved efficiency by 16%"
+      }
+    ],
+    "certifications": [],
+    "resume_text": "Isha Chopra | Data Science Lead | 8 years experience\nSkills: TensorFlow, Power BI, MySQL, Redis, Spark, Docker, Stakeholder Management, PyTorch, AWS, Agile, SAS, Julia\nEducation: MBA in Computer Science from IIT Madras (2015)\nExperience: Data Engineer at IBM (1yr) | Data Scientist at HCL (1yr) | Junior Analyst at Mu Sigma (2yr) | Analytics Consultant at Infosys (3yr) | Senior Data Scientist at HCL (1yr)\nProjects: Customer Churn Prediction using TensorFlow and NumPy | NLP-based Sentiment Analysis Pipeline using NLTK | Supply Chain Analytics Dashboard with Seaborn",
+    "applied_date": "2026-06-12",
+    "source": "LinkedIn",
+    "status": "Rejected"
+  },
+  {
+    "candidate_id": "CAND020",
+    "name": "Nikhil Bhatt",
+    "email": "nikhil.bhatt@gmail.com",
+    "phone": "+91 9823416751",
+    "location": "Bangalore",
+    "years_experience": 2,
+    "current_role": "Junior ML Engineer",
+    "skills": [
+      "Redis",
+      "Pandas",
+      "SAS",
+      "Julia",
+      "Hadoop",
+      "Redshift",
+      "Seaborn",
+      "Plotly",
+      "Python"
+    ],
+    "education": {
+      "degree": "M.Tech",
+      "field": "Mathematics",
+      "university": "VIT Vellore",
+      "graduation_year": 2021,
+      "gpa": 6.8
+    },
+    "work_experience": [
+      {
+        "company": "Tech Mahindra",
+        "title": "Data Engineer",
+        "start_date": "Jul 2025",
+        "end_date": "Present",
+        "duration_years": 1,
+        "description": "Designed analytics solution using Pandas, saving 20 hours/week of manual effort."
+      },
+      {
+        "company": "Tech Mahindra",
+        "title": "Data Engineer",
+        "start_date": "Jul 2024",
+        "end_date": "Jul 2025",
+        "duration_years": 1,
+        "description": "Automated analytics solution using Pandas, supporting $2M revenue decisions."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Automated Reporting System using Hadoop and Seaborn",
+        "skills_used": [
+          "Redshift",
+          "Redis",
+          "Hadoop",
+          "Python"
+        ],
+        "impact": "Improved efficiency by 60%"
+      },
+      {
+        "name": "Supply Chain Analytics Dashboard with Seaborn",
+        "skills_used": [
+          "Plotly",
+          "Python",
+          "Seaborn",
+          "Hadoop"
+        ],
+        "impact": "Improved efficiency by 61%"
+      }
+    ],
+    "certifications": [],
+    "resume_text": "Nikhil Bhatt | Junior ML Engineer | 2 years experience\nSkills: Redis, Pandas, SAS, Julia, Hadoop, Redshift, Seaborn, Plotly, Python\nEducation: M.Tech in Mathematics from VIT Vellore (2021)\nExperience: Data Engineer at Tech Mahindra (1yr) | Data Engineer at Tech Mahindra (1yr)\nProjects: Automated Reporting System using Hadoop and Seaborn | Supply Chain Analytics Dashboard with Seaborn",
+    "applied_date": "2026-06-08",
+    "source": "LinkedIn",
+    "status": "Shortlisted"
+  }
+]

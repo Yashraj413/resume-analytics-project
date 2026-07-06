@@ -1,0 +1,108 @@
+[
+  {
+    "job_id": "JD001",
+    "title": "Data Analyst",
+    "department": "Analytics",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Pandas",
+      "Excel"
+    ],
+    "preferred_skills": [
+      "Tableau",
+      "R",
+      "Spark"
+    ],
+    "min_experience": 2,
+    "location": "Pune",
+    "salary_range": "6-10 LPA"
+  },
+  {
+    "job_id": "JD002",
+    "title": "Senior Data Scientist",
+    "department": "AI/ML",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "SQL",
+      "Statistics"
+    ],
+    "preferred_skills": [
+      "Spark",
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "min_experience": 5,
+    "location": "Bangalore",
+    "salary_range": "18-28 LPA"
+  },
+  {
+    "job_id": "JD003",
+    "title": "ML Engineer",
+    "department": "Engineering",
+    "required_skills": [
+      "Python",
+      "TensorFlow",
+      "Docker",
+      "AWS",
+      "SQL",
+      "Scikit-learn"
+    ],
+    "preferred_skills": [
+      "Kubernetes",
+      "Spark",
+      "Kafka",
+      "MLflow"
+    ],
+    "min_experience": 3,
+    "location": "Hyderabad",
+    "salary_range": "12-20 LPA"
+  },
+  {
+    "job_id": "JD004",
+    "title": "Business Intelligence Analyst",
+    "department": "Business Analytics",
+    "required_skills": [
+      "SQL",
+      "Power BI",
+      "Excel",
+      "Tableau",
+      "Communication"
+    ],
+    "preferred_skills": [
+      "Python",
+      "R",
+      "Looker",
+      "Stakeholder Management"
+    ],
+    "min_experience": 2,
+    "location": "Mumbai",
+    "salary_range": "8-14 LPA"
+  },
+  {
+    "job_id": "JD005",
+    "title": "Data Engineer",
+    "department": "Data Platform",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "Airflow",
+      "Kafka",
+      "PostgreSQL"
+    ],
+    "preferred_skills": [
+      "Scala",
+      "Kubernetes",
+      "dbt",
+      "Snowflake"
+    ],
+    "min_experience": 4,
+    "location": "Remote",
+    "salary_range": "15-25 LPA"
+  }
+]
