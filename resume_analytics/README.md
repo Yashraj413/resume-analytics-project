@@ -1,6 +1,6 @@
 # AI-Powered Resume Screening Analytics
 
-> Automated candidate screening pipeline using NLP — reduced manual HR review effort by 60%.
+> Automated candidate screening pipeline using NLP that reduced manual HR review effort by 60%.
 
 ---
 
@@ -142,33 +142,10 @@ Overall Score =
 
 ---
 
-## Resume Bullet Points (Copy-Paste Ready)
-
-```
-• Designed and built an end-to-end AI-powered resume screening system 
-  using Python, spaCy NLP, and SQLite, reducing manual candidate review 
-  effort by 60% through automated skill extraction and multi-factor scoring.
-
-• Built a custom NLP engine (hybrid rule-based + TF-IDF cosine similarity) 
-  with a 77-skill taxonomy to extract, normalize, and match technical skills 
-  from resume text — achieving structured output from unstructured data.
-
-• Engineered a normalized SQLite schema (10 tables, 5 analytics views) and 
-  ETL pipeline that processed 20 resumes × 5 job descriptions, computing 
-  100 weighted match scores with full audit logging.
-
-• Developed a 5-tab interactive analytics dashboard in Plotly Dash featuring 
-  live filtering, a candidate × job heatmap, skill gap analysis, hiring 
-  funnel, and source effectiveness — enabling data-driven shortlisting.
-
-• Implemented skill gap analysis to quantify candidate coverage (%) for each 
-  required job skill, surfacing actionable hiring intelligence (critical / 
-  moderate / adequate) for recruiting teams.
-```
 
 ---
 
-## SQL Queries — Advanced Examples
+## SQL Queries — Advanced Example
 
 ```sql
 -- Top 5 candidates for a specific job
@@ -201,25 +178,6 @@ JOIN match_scores ms ON c.candidate_id = ms.candidate_id
 GROUP BY source
 ORDER BY avg_score DESC;
 ```
-
----
-
-## Interview Q&A Prep
-
-**"Walk me through your project"**
-> "I built a full NLP pipeline that takes raw resume text, extracts and normalizes skills against a 77-skill taxonomy, computes weighted match scores against job descriptions, and surfaces everything in a 5-tab analytics dashboard. The goal was to cut manual screening time by 60% by turning a subjective HR process into a quantified, data-driven one."
-
-**"What NLP techniques did you use?"**
-> "I used a hybrid approach — a rule-based system for alias normalization (handling synonyms like 'sklearn' → 'Scikit-learn'), multi-word phrase matching, and TF-IDF cosine similarity for semantic matching between resume and JD text. I also integrated spaCy's NER as an optional enhancement layer."
-
-**"How did you design the scoring?"**
-> "Multi-factor weighted model: skill match at 50% (split 75/25 between required and preferred), experience at 30% with a bonus for exceeding minimum, education tier at 10%, and TF-IDF semantic similarity at 10%. Thresholds of 72 and 50 define Shortlist, Review, and Reject."
-
-**"Tell me about the database design"**
-> "10 normalized tables with a clear separation of concerns — candidates, skills taxonomy, job descriptions, and a match_scores table as the core analytics fact table. I built 5 SQL views on top for the dashboard queries, including skill gap analysis and hiring funnel."
-
-**"How would you scale this?"**
-> "Replace SQLite with PostgreSQL, containerize with Docker, add a FastAPI layer for the scoring service, and integrate with an ATS via REST API. The NLP layer could be upgraded to a fine-tuned BERT model for better semantic matching."
 
 ---
 
