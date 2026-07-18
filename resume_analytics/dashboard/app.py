@@ -319,6 +319,7 @@ def get_candidate_table_data(job_id=None, min_score=0):
 # ──────────────────────────────────────────────
 
 app = Dash(__name__, title="Resume Analytics Dashboard")
+server = app.server
 app.config.suppress_callback_exceptions = True
 
 job_options = [{"label": "All Jobs", "value": "ALL"}] + [
