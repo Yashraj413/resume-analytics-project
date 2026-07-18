@@ -228,11 +228,17 @@ ORDER BY qualified DESC;
 
 def get_connection(db_path: str = DB_PATH) -> sqlite3.Connection:
     """Return a configured SQLite connection."""
-    os.makedirs(os.path.dirname(db_path), exist_ok=True)
+    try:
+        os.makedirs(os.path.dirname(db_path), exist_ok=True)
+    except OSError:
+        pass  # read-only filesystem (e.g. Vercel) — directory already exists
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
     conn.execute("PRAGMA foreign_keys = ON")
-    conn.execute("PRAGMA journal_mode = WAL")
+    try:
+        conn.execute("PRAGMA journal_mode = WAL")
+    except sqlite3.OperationalError:
+        pass  # can't write -wal/-shm files on read-only filesystem, safe to skip for read-only dashboard use
     return conn
 
 
