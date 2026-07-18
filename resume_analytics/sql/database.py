@@ -9,8 +9,25 @@ import os
 from datetime import datetime
 from typing import Optional
 
-DB_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "resume_analytics.db")
+import shutil
+import tempfile
 
+_BUNDLED_DB_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "resume_analytics.db")
+
+
+def _resolve_db_path() -> str:
+    """Use the bundled DB directly if writable; otherwise copy it to /tmp
+    once per cold start (needed on read-only filesystems like Vercel)."""
+    base_dir = os.path.dirname(_BUNDLED_DB_PATH)
+    if os.access(base_dir, os.W_OK):
+        return _BUNDLED_DB_PATH
+    tmp_path = os.path.join(tempfile.gettempdir(), "resume_analytics.db")
+    if not os.path.exists(tmp_path):
+        shutil.copy(_BUNDLED_DB_PATH, tmp_path)
+    return tmp_path
+
+
+DB_PATH = _resolve_db_path()
 
 # ──────────────────────────────────────────────
 # SCHEMA DDL
